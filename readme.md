@@ -6,9 +6,7 @@ Intro resume online for Brian Bauska - database AND systems analyst.
     <br>
 </h1>
 
-<!--
-[![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
--->
+<!-- [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit) -->
 
 # Best Websites a Programmer Should Visit
 Some useful websites for programmers.
