@@ -1,5 +1,5 @@
-# sayhello
-Intro resume online for Brian Bauska - database AND systems analyst.
+# sayhello.bauska.org
+Intro blog/resume online for Brian Bauska - 'r', data wrangler, database developer/designer AND systems analyst.
 <h1 align="center">
     <br>
     <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
