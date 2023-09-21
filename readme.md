@@ -33,13 +33,13 @@ output:
 
 <!-- [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit) -->
 
-<h2>Websites a Programmer Might Visit</h2>
-Some useful websites for programmers.
-<p>A Great <a href="https://meiert.com/en/blog/html-content-categories/">Website for HTML</a></p>
+<h2>Index of Websites a Programmer Might Visit</h2>
+<br>
+<p>A Great <a href="https://meiert.com/en/blog/html-content-categories/">Website of HTML terms</a></p>
+<br>
+<p>When learning CS, there are some useful sites you should know about which inform you of pertinent technologies. Here is a non-exhaustive list of those sites.</p>
 
-When learning CS, there are some useful sites you should know about which inform you about necessary technologies. Here is a non-exhaustive list of some sites you could visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
-
-## Index
+<h2 align="left">Index</h2>
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
