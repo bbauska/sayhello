@@ -12,14 +12,14 @@ output:
 <h2>What I'm doing now</h2>
 
 <h3>Advanced Styling with Responsive Design - by University of Michigan taught by Colleen van Lent , PhD</h3>
-<h3>IBM - Getting Started with Git &amp; GitHub</h3>
-<h3>Google - Introduction to Git &amp; GitHub</h3>
-<h3>W3Cx-1of5-CSS.0x - CSS Basics</h3>
+<h3>IBM - Getting Started with Git &amp; GitHub (by Coursera/IBM)</h3>
+<h3>Google - Introduction to Git &amp; GitHub (by Coursera/Google)</h3>
+<h3>W3Cx-1of5-CSS.0x - CSS Basics (by edX but ONLY temporarily)</h3>
 <h3>Say Hello - update works category.  Replace with categories that sell to prospective employers.</h3>
-
 <ul>
     <li>IBM/Cognos systme</li>
     <li>Sample Access Database system with VBA to Outlook &amp; Excel.</li>
+    <li>Blockchain technologies.</li>
 </ul>
 <blockquote>
     Intro blog/resume online for Brian Bauska - 'r', data wrangler, database developer/designer AND systems analyst.
@@ -35,7 +35,8 @@ output:
 
 <h2>Websites a Programmer Might Visit</h2>
 Some useful websites for programmers.
-**https://meiert.com/en/blog/html-content-categories/**
+<p>A Great <a href="https://meiert.com/en/blog/html-content-categories/">Website for HTML</a></p>
+
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
 ## Index
