@@ -4,23 +4,20 @@
 <h2>Google - Introduction to Git &amp; GitHub</h2>
 <h2>W3Cx-1of5-CSS.0x - CSS Basics</h2>
 <h2>Say Hello - update works category.  Replace with categories that sell to prospective employers.</h2>
+<br><br>
 <ul>
     <li>IBM/Cognos systme</li>
     <li>Sample Access Database system with VBA to Outlook &amp; Excel.</li>
 </ul>
-# sayhello.bauska.org
-Intro blog/resume online for Brian Bauska - 'r', data wrangler, database developer/designer AND systems analyst.
+<h1>sayhello.bauska.org</h1>
+<blockquote>
+    Intro blog/resume online for Brian Bauska - 'r', data wrangler, database developer/designer AND systems analyst.
+</blockquote>
 <h1 align="center">
     <br>
     <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
     <br>
 </h1>
-# What I'm doing now
-## Advanced Styling with Responsive Design - by University of Michigan taught by Colleen van Lent , PhD
-## IBM - Getting Started with Git &amp; GitHub
-## Google - Introduction to Git &amp; GitHub
-## W3Cx-1of5-CSS.0x - CSS Basics
-## Say Hello - update works category.  Replace with categories that sell to prospective employers.
 
 <!-- [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit) -->
 
