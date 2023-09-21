@@ -37,7 +37,7 @@ output:
 Some useful websites for programmers.
 <p>A Great <a href="https://meiert.com/en/blog/html-content-categories/">Website for HTML</a></p>
 
-When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+When learning CS, there are some useful sites you should know about which inform you about necessary technologies. Here is a non-exhaustive list of some sites you could visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
 ## Index
 <ul>
