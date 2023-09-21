@@ -5,6 +5,12 @@ Intro blog/resume online for Brian Bauska - 'r', data wrangler, database develop
     <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
     <br>
 </h1>
+# What I'm doing now
+## Advanced Styling with Responsive Design - by University of Michigan taught by Colleen van Lent , PhD
+## IBM - Getting Started with Git &amp; GitHub
+## Google - Introduction to Git &amp; GitHub
+## W3Cx-1of5-CSS.0x - CSS Basics
+## Say Hello - update works category.  Replace with categories that sell to prospective employers.
 
 <!-- [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit) -->
 
