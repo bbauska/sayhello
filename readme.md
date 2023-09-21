@@ -1,10 +1,13 @@
-# What I'm doing now
-## Advanced Styling with Responsive Design - by University of Michigan taught by Colleen van Lent , PhD
-## IBM - Getting Started with Git &amp; GitHub
-## Google - Introduction to Git &amp; GitHub
-## W3Cx-1of5-CSS.0x - CSS Basics
-## Say Hello - update works category.  Replace with categories that sell to prospective employers.
-
+<h1>What I'm doing now</h1>
+<h2>Advanced Styling with Responsive Design - by University of Michigan taught by Colleen van Lent , PhD</h2>
+<h2>IBM - Getting Started with Git &amp; GitHub</h2>
+<h2>Google - Introduction to Git &amp; GitHub</h2>
+<h2>W3Cx-1of5-CSS.0x - CSS Basics</h2>
+<h2>Say Hello - update works category.  Replace with categories that sell to prospective employers.</h2>
+<ul>
+    <li>IBM/Cognos systme</li>
+    <li>Sample Access Database system with VBA to Outlook &amp; Excel.</li>
+</ul>
 # sayhello.bauska.org
 Intro blog/resume online for Brian Bauska - 'r', data wrangler, database developer/designer AND systems analyst.
 <h1 align="center">
