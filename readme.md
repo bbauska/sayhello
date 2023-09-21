@@ -1,5 +1,10 @@
 ---
-
+title: "Say Hello"
+author: "bbauska"
+date last editted: "9/21/2023 7+pm"
+output: 
+  markdown:
+    with_style
 ---
 
 <h1>sayhello.bauska.org</h1>
