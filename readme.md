@@ -27,7 +27,7 @@ output:
 
 <h1 align="center">
     <br>
-    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome" target="_blank">
+    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
     <br>
 </h1>
 
@@ -35,7 +35,7 @@ output:
 
 <h2>Index of Websites a Programmer Might Visit</h2>
 <br>
-<p>A Great <a href="https://meiert.com/en/blog/html-content-categories/">Website of HTML terms</a></p>
+<p>A Great <a href="https://meiert.com/en/blog/html-content-categories/" target="_blank">Website of HTML terms</a></p>
 <br>
 <p>When learning CS, there are some useful sites you should know about which inform you of pertinent technologies. Here is a non-exhaustive list of those sites.</p>
 
@@ -912,4 +912,5 @@ output:
 
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
-- A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
+- A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository 
+[Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
