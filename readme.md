@@ -27,7 +27,7 @@ output:
 
 <h1 align="center">
     <br>
-    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
+    <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome" target="_blank">
     <br>
 </h1>
 
