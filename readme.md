@@ -17,7 +17,7 @@ output:
 <h3>W3Cx-1of5-CSS.0x - CSS Basics (by edX but ONLY temporarily)</h3>
 <h3>Say Hello - update works category.  Replace with categories that sell to prospective employers.</h3>
 <ul>
-    <li>IBM/Cognos systme</li>
+    <li>IBM/Cognos system</li>
     <li>Sample Access Database system with VBA to Outlook &amp; Excel.</li>
     <li>Blockchain technologies.</li>
 </ul>
