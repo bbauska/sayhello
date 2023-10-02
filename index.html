@@ -40,7 +40,7 @@
       <span></span>
       <span></span>
       <span></span>
-    </div>
+    </div>  <!-- class="circles" -->
   <!-- ## site header 
   ================================================== -->
   <header class="s-header">
@@ -59,9 +59,9 @@
           <li><a href="#works" class="smoothscroll">Works</a></li>
           <li><a href="#contact" class="smoothscroll">Say Hello</a></li>
         </ul>
-      </nav>  <!-- column lg-12 main-nav -->
-    </div>  <!-- row wide main-nav-wrap -->
-  </header> <!-- end s-header -->
+      </nav>  <!-- class="column lg-12 main-nav" -->
+    </div>  <!-- class="row wide main-nav-wrap" -->
+  </header> <!-- class="s-header" -->
     <!-- ## main content
     ==================================================- -->
     <main class="s-content">
@@ -93,22 +93,22 @@
               rel="noopener" target="_blank">LinkedIn</a></li>
             <li><a href="https://briansblog.bauska.org" 
               rel="noopener noreferrer" target="_blank">MyBlog</a></li>
-          </ul>  <!-- intro-social -->
-        </div> <!-- row intro-content -->
+          </ul>  <!-- class="intro-social" -->
+        </div> <!-- class="row intro-content" -->
         <a href="#about" class="intro-scrolldown smoothscroll">
           <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M11 21.883l-6.235-7.527-.765.644 7.521 9 7.479-9-.764-.645-6.236 7.529v-21.884h-1v21.883z"/></svg>
-        </a>  <!-- #about -->
-      </section> <!-- id="intro" -->
+        </a>  <!-- href="#about" -->
+      </section> <!-- id="intro" class="s-intro target-section" -->
       <!-- ### about
             ================================================== -->
       <section id="about" class="s-about target-section">
         <div class="row about-info wide" data-animate-block>
-                    <div class="column lg-6 md-12 about-info__pic-block">
-                        <img src="images/about-photo.jpg" 
-                             srcset="images/about-photo.jpg 1x, images/about-photo@2x.jpg 2x" alt="" class="about-info__pic" data-animate-el>
-                    </div>
+          <div class="column lg-6 md-12 about-info__pic-block">
+            <img src="images/about-photo.jpg" 
+              srcset="images/about-photo.jpg 1x, images/about-photo@2x.jpg 2x" alt="" class="about-info__pic" data-animate-el>
+          </div>
           <div class="column lg-6 md-12">
-            <div class="about-info__text" >
+            <div class="about-info__text">
               <h2 class="text-pretitle with-line" data-animate-el>
                 About
               </h2>
@@ -120,9 +120,9 @@
                 warehouse management system and too many to list.  All relational.
               </p>
               <a href="https://brians-resume.bauska.org" class="btn btn--medium u-fullwidth" data-animate-el>Review CV</a>
-            </div>
-          </div>
-        </div> <!-- row about-info -->
+            </div>  <!-- class="about-info__text" -->
+          </div>  <!-- class="column lg-6 md-12" -->
+        </div> <!-- class="row about-info wide" data-animate-block -->
         <div class="row about-expertise" data-animate-block>
           <div class="column lg-12">
             <h2 class="text-pretitle" data-animate-el>Expertise</h2>
@@ -134,9 +134,9 @@
               <li>MS Office Pro - with Visio &amp; VB<br></li>
               <li>HTML, CSS, JQuery, Vanilla JS, React, D3, &amp; more. . .</li>
             </ul>
-          </div>
-        </div> <!-- row about-expertise -->
-      </section>  <!-- id="about" -->
+          </div>  <!-- class="column lg-12" -->
+        </div> <!-- class="row about-expertise" data-animate-block -->
+      </section>  <!-- id="about" class="s-about target-section" -->
       <!-- ### experience & education
         ================================================== -->
       <section id="experience" class="s-about target-section">
@@ -326,12 +326,12 @@
                   <p>Went off to college Sept, '78 - June, '86 taking one year off to save 
                     money and pay for the last year.  They didn't have a BS in Computers, 
                     only a BA, so I made my own.  Called it Individual Studies; Computer Systems.</p>
-                </div>  <!-- end timeline_desc -->
-              </div>  <!-- end timeline__block -->
-            </div> <!-- end timeline -->
-          </div> <!-- end column lg-6 tab-12 -->
-        </div> <!-- end row about-timelines -->
-      </section> <!-- end id="experience" -->
+                </div>  <!-- class="timeline__desc" -->
+              </div>  <!-- class="timeline__block" -->
+            </div> <!-- class="timeline" data-animate-el -->
+          </div> <!-- class="column lg-6 tab-12" -->
+        </div> <!-- class="row about-timelines" -->
+      </section> <!-- id="experience" class="s-about target-section" -->
       <!-- ### works
         ================================================== -->
       <section id="works" class="s-works target-section">
@@ -455,10 +455,10 @@
                 </a>  <!-- end folio-list__item-pic -->
                 <a class="folio-list__proj-link" href="#" title="project link">
                   <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.14645 3.14645C8.34171 2.95118 8.65829 2.95118 8.85355 3.14645L12.8536 7.14645C13.0488 7.34171 13.0488 7.65829 12.8536 7.85355L8.85355 11.8536C8.65829 12.0488 8.34171 12.0488 8.14645 11.8536C7.95118 11.6583 7.95118 11.3417 8.14645 11.1464L11.2929 8H2.5C2.22386 8 2 7.77614 2 7.5C2 7.22386 2.22386 7 2.5 7H11.2929L8.14645 3.85355C7.95118 3.65829 7.95118 3.34171 8.14645 3.14645Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path></svg>
-                </a>  <!-- end folio-list__proj-link -->
-              </li> <!--end folio-list__item -->
-            </ul> <!-- end folio-list -->
-          </div> <!-- end column lg-12 -->
+                </a>  <!-- class="folio-list__proj-link" -->
+              </li> <!--class="folio-list__item" -->
+            </ul> <!-- class="folio-list" -->
+          </div> <!-- class="column lg-12" -->
           <!-- Modal Templates Popup
             -------------------------------------------- -->
           <div id="modal-01" hidden>
@@ -470,11 +470,11 @@
                 <ul class="modal-popup__cat">
                   <li>Taxi Driver, 1976</li>
                   <li>Robert Deniro</li>
-                </ul>  <!-- end modal-popup__cat -->
-              </div>  <!-- end modal-popup__desc -->
+                </ul>  <!-- class="modal-popup__cat" -->
+              </div>  <!-- class="modal-popup__desc" -->
               <a href="https://brians-resume.bauska.org/" class="modal-popup__details" rel="noopener" target="_blank">Taxi Driver, 1976 link /a>
-            </div>  <!-- end modal-popup -->
-          </div> <!-- end modal-01 -->
+            </div>  <!-- class="modal-popup" -->
+          </div> <!-- class="modal-01" hidden -->
           <div id="modal-02" hidden>
             <div class="modal-popup">
               <img src="images/portfolio/gallery/g-1950.jpg" alt="">
@@ -486,8 +486,8 @@
                 </ul>
               </div>
               <a href="https://brians-resume.bauska.org" class="modal-popup__details" rel="noopener noreferrer" target="_blank">1950 UFO link</a>
-            </div>  <!-- end modal-popup__desc -->
-          </div> <!-- end modal-02 -->
+            </div>  <!-- class="modal-popup__desc" -->
+          </div> <!-- class="modal-02" hidden -->
           <div id="modal-03" hidden>
             <div class="modal-popup">
               <img src="images/portfolio/gallery/g-nuclear-bomb.jpg" alt="Nuclear Explosion, 1950's?">
@@ -501,8 +501,8 @@
                 </ul>
               </div>
               <a href="https://brians-resume.bauska.org/" class="modal-popup__details">Nuclear Explosion link</a>
-            </div>  <!-- end modal-popup -->
-          </div> <!-- end modal-03 -->
+            </div>  <!-- class="modal-popup" -->
+          </div> <!-- class="modal-03" hidden -->
           <div id="modal-04" hidden>
             <div class="modal-popup">
               <img src="images/portfolio/gallery/g-startrek-1967.jpg" alt="Star Trek, 1967.">
@@ -516,8 +516,8 @@
                 </ul>
               </div>  <!-- end modal-popup__desc -->
               <a href="https://brians-resume.bauska.org/" class="modal-popup__details" rel="noopener noreferrer" target="_blank">Star Trek link</a>
-            </div>  <!-- end modal-popup -->
-          </div> <!-- end modal-04 -->
+            </div>  <!-- class="modal-popup" -->
+          </div> <!-- class="modal-04" hidden -->
           <div id="modal-05" hidden>
             <div class="modal-popup">
               <img src="images/portfolio/gallery/g-statue-liberty.jpg" alt="The Statue of Liberty, 1886.">
@@ -531,10 +531,10 @@
                   <li>From France</li>
                   <li>Completed, 1886</li>
                 </ul>
-              </div>  <!-- end modal-popup__desc -->
+              </div>  <!-- class="modal-popup__desc" -->
               <a href="https://www.nps.gov/stli/index.htm" class="modal-popup__details" rel="noopener noreferrer" target="_blank">Statue of Liberty link</a>
-            </div>  <!-- end modal-popup -->
-          </div> <!-- end modal-05 -->
+            </div>  <!-- class="modal-popup" -->
+          </div> <!-- class="modal-05" hidden -->
           <div id="modal-06" hidden>
             <div class="modal-popup">
               <img src="images/portfolio/gallery/g-st-helens.jpg" alt="Brian's blog snapshot.">
@@ -547,11 +547,11 @@
                 <ul class="modal-popup__cat">
                   <li>Brian's Blog</li>
                 </ul>
-              </div>  <!-- end modal-popup__desc -->
+              </div>  <!-- class="modal-popup__desc" -->
               <a href="https://briansblog.bauska.org/" class="modal-popup__details">Brian's Blog</a>
-            </div>  <!-- end modal-popup -->
-          </div> <!-- end modal-06 -->
-        </div> <!-- end works-portfolio -->
+            </div>  <!-- class="modal-popup" -->
+          </div> <!-- class="modal-06" hidden -->
+        </div> <!-- class="works-portfolio -->
         <div class="row testimonials">
           <div class="column lg-12" data-animate-block>
             <div class="swiper-container testimonial-slider" data-animate-el>
@@ -604,25 +604,25 @@
                       <strong>CEO Pathfinder Software, Inc</strong>
                       <span>Human Resources &amp; Payroll</span>
                     </cite>
-                  </div>  <!-- end testimonial-slider_author -->
+                  </div>  <!-- class="testimonial-slider__author" -->
                     <p>3 paragraphs</p>
-                </div> <!-- end testimonial-slider__slide -->
+                </div> <!-- class="testimonial-slider__slide" -->
                 <div class="testimonial-slider__slide swiper-slide">
                   <div class="testimonial-slider__author">
                     <img src="images/avatars/user-01.jpg" alt="User 01 image description." class="testimonial-slider__avatar">
                     <cite class="testimonial-slider__cite">
-                      <strong>User 01</strong>
+                      <strong>User Guy</strong>
                       <span>Famous quotes by Pathfinder</span>
                     </cite>
                   </div>
                   <p>3 more paragraphs</p>
-                </div> <!-- end testimonial-slider__slide -->
-              </div> <!-- end swiper-wrapper -->
+                </div> <!-- class="testimonial-slider__slide" -->
+              </div> <!-- class="swiper-wrapper" -->
               <div class="swiper-pagination"></div>
             </div> <!-- end swiper-container -->
-          </div> <!-- end column -->
-        </div> <!-- end row testimonials -->
-      </section> <!-- end s-works target-section-->
+          </div> <!-- class="column" -->
+        </div> <!-- class="row testimonials" -->
+      </section> <!-- class="s-works target-section" -->
         <!-- ### contact
         ================================================== -->
         <section id="contact" class="s-contact target-section">
@@ -636,8 +636,8 @@
                 Whether you have a question or just 
                 want to chat about databases, front-end web development or the Pacific Northwest — shoot me a message.
               </p>
-            </div>  <!-- end column 1g-12 -->
-        </div> <!-- end row contact-top -->
+            </div>  <!-- class="column 1g-12" -->
+        </div> <!-- class="row contact-top" -->
         <div class="row contact-bottom">
           <div class="column lg-3 md-5 tab-6 stack-on-550 contact-block">
             <h3 class="text-pretitle">Reach me at</h3>
@@ -660,9 +660,9 @@
           <div class="column lg-4 md-12 contact-block">
             <a href="mailto:brianbauska@gmail.com" class="mailtoui btn btn--medium u-fullwidth contact-btn">Say Hello.</a>
           </div>
-        </div> <!-- end row contact-bottom -->
-      </section> <!-- end s-contact target-section -->
-    </main> <!-- end s-content -->
+        </div> <!-- class="row contact-bottom" -->
+      </section> <!-- class="s-contact target-section" -->
+    </main> <!-- class="s-content" -->
     <!-- ## footer
       ================================================== -->
     <footer class="s-footer">
@@ -676,9 +676,9 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill-rule="evenodd" clip-rule="evenodd"><path d="M11 2.206l-6.235  7.528-.765-.645 7.521-9 7.479 9-.764.646-6.236-7.53v21.884h-1v-21.883z"/></svg>
           </a>
         </div>
-      </div>
-    </footer> <!-- end s-footer -->
-  </div> <!-- end -s-pagewrap -->
+      </div>  <!-- class="row" -->
+    </footer> <!-- class="s-footer" -->
+  </div> <!-- class="-s-pagewrap" -->
   <!-- java script
   ================================================== -->
   <script src="js/plugins.js"></script>
