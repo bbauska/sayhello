@@ -41,29 +41,29 @@
       <span></span>
       <span></span>
     </div>  <!-- class="circles" -->
-  <!-- ## site header 
-  ================================================== -->
-  <header class="s-header">
-    <div class="header-mobile">
-      <span class="mobile-home-link"><a href="index.html">Bauska, Brian.</a></span>
+    <!-- ## site header 
+      ================================================== -->
+    <header class="s-header">
+      <div class="header-mobile">
+        <span class="mobile-home-link"><a href="index.html">Bauska, Brian.</a></span>
         <a class="mobile-menu-toggle" href="#0"><span>Menu</span></a>
-    </div>
-    <div class="row wide main-nav-wrap">
-      <nav class="column lg-12 main-nav">
-        <ul>
-          <li><a href="index.html" class="home-link">Bauska, Brian.</a></li>
-          <li class="current"><a href="#intro" class="smoothscroll">Intro</a></li>
-          <li><a href="#about" class="smoothscroll">About</a></li>
-          <!-- next line added 9-17-23 -->
-          <li><a href="#experience" class="smoothscroll">Experience</a></li>
-          <li><a href="#works" class="smoothscroll">Works</a></li>
-          <li><a href="#contact" class="smoothscroll">Say Hello</a></li>
-        </ul>
-      </nav>  <!-- class="column lg-12 main-nav" -->
-    </div>  <!-- class="row wide main-nav-wrap" -->
-  </header> <!-- class="s-header" -->
+      </div>
+      <div class="row wide main-nav-wrap">
+        <nav class="column lg-12 main-nav">
+          <ul>
+            <li><a href="index.html" class="home-link">Bauska, Brian.</a></li>
+            <li class="current"><a href="#intro" class="smoothscroll">Intro</a></li>
+            <li><a href="#about" class="smoothscroll">About</a></li>
+            <!-- next line added 9-17-23 -->
+            <li><a href="#experience" class="smoothscroll">Experience</a></li>
+            <li><a href="#works" class="smoothscroll">Works</a></li>
+            <li><a href="#contact" class="smoothscroll">Say Hello</a></li>
+          </ul>
+        </nav>  <!-- class="column lg-12 main-nav" -->
+      </div>  <!-- class="row wide main-nav-wrap" -->
+    </header> <!-- class="s-header" -->
     <!-- ## main content
-    ==================================================- -->
+      ==================================================- -->
     <main class="s-content">
       <!-- ### intro
         ================================================== -->
@@ -82,17 +82,19 @@
             </h1>  <!-- class="text-huge-title" -->
           </div>  <!-- class="column" -->
           <ul class="intro-social">
-            <li><a href="https://github.com/bbauska" rel="noopener" target="_blank">Github</a></li>
+            <li><a href="https://github.com/bbauska" rel="noopener noreferrer" target="_blank">
+			  Github</a></li>
             <li><a href="https://medium.com/@akchauhan556/top-9-most-popular-javascript-libraries-for-front-end-and-back-end-developer-in-2023-4d2718abe29e" 
-              rel="noopener noreferrer" target="_blank">Medium</a></li>
-            <li><a href="https://github.com/bbauska?tab=repositories" 
-              rel="noopener" target="_blank">Repos</a></li>
-            <li><a href="https://brians-resume.bauska.org" rel="noopener noreferrer"
-              target="_blank">Resume</a></li>
-            <li><a href="https://www.linkedin.com/in/brian-bauska-89240679/" 
-              rel="noopener" target="_blank">LinkedIn</a></li>
-            <li><a href="https://briansblog.bauska.org" 
-              rel="noopener noreferrer" target="_blank">MyBlog</a></li>
+              rel="noopener noreferrer" target="_blank">
+			  Medium</a></li>
+            <li><a href="https://github.com/bbauska?tab=repositories" rel="noopener noreferrer" target="_blank">
+			  Repos</a></li>
+            <li><a href="https://brians-resume.bauska.org" rel="noopener noreferrer" target="_blank">
+			  Resume</a></li>
+            <li><a href="https://www.linkedin.com/in/brian-bauska-89240679/" rel="noopener noreferrer" target="_blank">
+			  LinkedIn</a></li>
+            <li><a href="https://briansblog.bauska.org" rel="noopener noreferrer" target="_blank">
+			  MyBlog</a></li>
           </ul>  <!-- class="intro-social" -->
         </div> <!-- class="row intro-content" -->
         <a href="#about" class="intro-scrolldown smoothscroll">
@@ -584,7 +586,7 @@
                     Let the lamp affix its beam.<br>
                     The only emperor is the emperor of ice-cream.</p>
                   <a href="https://en.wikipedia.org/wiki/The_Beatles_discography#Original_US_studio_albums" rel="noopener noreferrer" target="_blank">Here's more about the Beatles</a>
-                </div> <!-- end testimonial-slider__slide -->
+                </div> <!-- class="testimonial-slider__slide swiper-slide" -->
                 <div class="testimonial-slider__slide swiper-slide">
                   <div class="testimonial-slider__author">
                     <img src="images/avatars/user-02.jpg" alt="User 02" class="testimonial-slider__avatar">
@@ -619,24 +621,24 @@
                 </div> <!-- class="testimonial-slider__slide" -->
               </div> <!-- class="swiper-wrapper" -->
               <div class="swiper-pagination"></div>
-            </div> <!-- end swiper-container -->
-          </div> <!-- class="column" -->
+            </div> <!-- class="swiper-container testimonial-slider" data-animate-el -->
+          </div> <!-- class="column lg-12" data-animate-block -->
         </div> <!-- class="row testimonials" -->
-      </section> <!-- class="s-works target-section" -->
-        <!-- ### contact
+      </section> <!-- id="works" class="s-works target-section" -->
+      <!-- ### contact
         ================================================== -->
-        <section id="contact" class="s-contact target-section">
-          <div class="row contact-top">
-            <div class="column lg-12">
-              <h2 class="text-pretitle">
-                Get In Touch
-              </h2>
-              <p class="h1">
-                I'd love to hear from you.
-                Whether you have a question or just 
-                want to chat about databases, front-end web development or the Pacific Northwest — shoot me a message.
-              </p>
-            </div>  <!-- class="column 1g-12" -->
+      <section id="contact" class="s-contact target-section">
+        <div class="row contact-top">
+          <div class="column lg-12">
+            <h2 class="text-pretitle">
+              Get In Touch
+            </h2>
+            <p class="h1">
+              I'd love to hear from you.
+              Whether you have a question or just 
+              want to chat about databases, front-end web development or the Pacific Northwest — shoot me a message.
+            </p>
+          </div>  <!-- class="column 1g-12" -->
         </div> <!-- class="row contact-top" -->
         <div class="row contact-bottom">
           <div class="column lg-3 md-5 tab-6 stack-on-550 contact-block">
@@ -661,7 +663,7 @@
             <a href="mailto:brianbauska@gmail.com" class="mailtoui btn btn--medium u-fullwidth contact-btn">Say Hello.</a>
           </div>
         </div> <!-- class="row contact-bottom" -->
-      </section> <!-- class="s-contact target-section" -->
+      </section> <!-- id="contact" class="s-contact target-section" -->
     </main> <!-- class="s-content" -->
     <!-- ## footer
       ================================================== -->
@@ -669,20 +671,20 @@
       <div class="row">
         <div class="column ss-copyright">
           <span>© Copyright SayHello Bauska 2023</span> 
-          <span>Design by <a href="https://briansblog.bauska.org/" rel="noopener noreferrer" target="_blank">Hello BBauska</a></span>
+          <span>Design by <a href="https://briansblog.bauska.org/" rel="noopener noreferrer" target="_blank">Brians Blog</a></span>
         </div>
         <div class="ss-go-top">
           <a class="smoothscroll" title="Back to Top" href="#top">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill-rule="evenodd" clip-rule="evenodd"><path d="M11 2.206l-6.235  7.528-.765-.645 7.521-9 7.479 9-.764.646-6.236-7.53v21.884h-1v-21.883z"/></svg>
           </a>
-        </div>
+        </div>  <!-- class="ss-go-top" -->
       </div>  <!-- class="row" -->
     </footer> <!-- class="s-footer" -->
-  </div> <!-- class="-s-pagewrap" -->
+  </div> <!-- class="s-pagewrap" -->
   <!-- java script
   ================================================== -->
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
 </body>  <!-- id='top' -->
 </html>
-<!-- last changed 9/20/23 2:39am -->
+<!-- last changed 10/02/23 5:04pm -->
