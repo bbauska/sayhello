@@ -11,6 +11,8 @@ output:
 
 <h2>What I'm doing now</h2>
 
+<h3>UC-Davis: JavaScript Basics</h3>
+<h3>
 <h3>Advanced Styling with Responsive Design - by University of Michigan taught by Colleen van Lent , PhD</h3>
 <h3>IBM - Getting Started with Git &amp; GitHub (by Coursera/IBM)</h3>
 <h3>Google - Introduction to Git &amp; GitHub (by Coursera/Google)</h3>
