@@ -11,6 +11,14 @@ output:
 
 <h2>What I'm doing now</h2>
 
+
+<h3UC-Davis: Data Manipulation with JavaScript</h3>
+
+<h2>Finish up with</h2>
+
+-  <h3>UC-Davis: Interactivity with JavaScript &amp; jQuery</h3>
+
+
 <h3>UC-Davis: JavaScript Basics</h3>
 <h3>
 <h3>Advanced Styling with Responsive Design - by University of Michigan taught by Colleen van Lent , PhD</h3>
