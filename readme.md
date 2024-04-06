@@ -12,12 +12,12 @@ output:
 <h2>What I'm doing now</h2>
 
 
-<h3UC-Davis: Data Manipulation with JavaScript</h3>
+<h3>UC-Davis: Data Manipulation with JavaScript</h3>
 
 <h2>Finish up with</h2>
 
 -  <h3>UC-Davis: Interactivity with JavaScript &amp; jQuery</h3>
-
+- SEO Shit and I mean shit.  What an entire waste of time.  How can I make more money?  All money, fuck all else.  Just make my greedy little ass rich?  Seriously?
 
 <h3>UC-Davis: JavaScript Basics</h3>
 <h3>
