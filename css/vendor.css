@@ -10,9 +10,6 @@
  * # Basiclightbox
  * 
  * ------------------------------------------------------------------- */
-
-
-
 /* ===================================================================
  * # PrismJS 1.20.0
  *   https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+clike+javascript+markup-templating+php
@@ -137,8 +134,6 @@ pre[class*="language-"] {
 .token.inserted {
     color : green;
 }
-
-
 
 /* ===================================================================
  * # Swiper 6.4.5
@@ -780,8 +775,6 @@ button.swiper-pagination-bullet {
     -webkit-backface-visibility : hidden;
     backface-visibility         : hidden;
 }
-
-
 
 /* ===================================================================
  * # Basiclightbox
