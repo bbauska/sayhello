@@ -11,6 +11,9 @@ output:
 
 <h2>What I'm doing now</h2>
 
+# The more you learn, the less you know
+
+# Those who truly know will never say so
 
 <h3>UC-Davis: Data Manipulation with JavaScript</h3>
 
